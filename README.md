@@ -9,7 +9,7 @@
  
 <h2>📃 Certifications</h2>
 
-- <b>CompTIA Security+:</b> SY0-601
+- <b>CompTIA Security+ SY0-601:
 [Jason's CompTIA Security+ ce certificate.pdf](https://github.com/jlam744/jlam744/files/12474731/Jason.s.CompTIA.Security%2B.ce.certificate.pdf)
 
 
