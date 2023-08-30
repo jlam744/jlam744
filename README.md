@@ -9,7 +9,9 @@
  
 <h2>📃 Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- <b>CompTIA Security +:</b> SY0-601
+[Jason's CompTIA Security+ ce certificate.pdf](https://github.com/jlam744/jlam744/files/12474712/Jason.s.CompTIA.Security%2B.ce.certificate.pdf)
+
 
 <h2> 🤳 Connect with me:</h2>
 
