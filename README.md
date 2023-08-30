@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/jlam744/SentinelGeo_lab)
+  - [Windows Event Log: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/jlam744/SentinelGeo_lab)
   - [Active Directory Bulk User Creation]()
   - [FIM (File Integrity Monitor)]()
 
