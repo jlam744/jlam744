@@ -6,9 +6,9 @@
   - [Windows Event Log: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/jlam744/SentinelGeo_lab)
   
  - <b>Tools</b>
-    - [Reconnaissance with NMAP, Zenmap, Hping, and Masscan]()
-    - [OpenVas Vulnerability Scanner]()
-    - [Tcpdump and WireShark]()
+    - [Reconnaissance with NMAP, Zenmap, Hping, and Masscan](https://github.com/jlam744/Recontools)
+    - [OpenVas Vulnerability Scanner](https://github.com/jlam744/OpenVas)
+    - [Tcpdump and WireShark](https://github.com/jlam744/NetworkAnalysis)
   
  - <b>I’m currently working on:</b>
     - [Active Directory Bulk User Creation](https://github.com/jlam744/BulkUsersAD_Powershell)
