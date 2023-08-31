@@ -6,12 +6,19 @@
   - [Windows Event Log: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/jlam744/SentinelGeo_lab)
   - [Active Directory Bulk User Creation]()
   - [FIM (File Integrity Monitor)]()
+
+<h2>🐍 Python Projects</h2>
+- [Install Ansible (web servers and database servers), Nginx (web servers), and MariaDB]
+- [Python Password Validation Code]()
+- [Creating a new User on a Cisco Router]()
  
 <h2>📃 Certifications</h2>
 
 - <b>CompTIA Security+ SY0-601:
 [Jason's CompTIA Security+ ce certificate.pdf](https://github.com/jlam744/jlam744/files/12474731/Jason.s.CompTIA.Security%2B.ce.certificate.pdf)
 
+
+- [How to get into Cybersecurity Starting From Zero]
 
 <h2> 🤳 Connect with me:</h2>
 
