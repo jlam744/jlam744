@@ -9,7 +9,7 @@
 
 <h2>🐍 Python Projects</h2>
 
-- [Install Ansible, Nginx, and MariaDB]
+- [Install Ansible, Nginx, and MariaDB]()
 - [Python Password Validation Code]()
 - [Creating a new User on a Cisco Router]()
  
