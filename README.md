@@ -10,9 +10,8 @@
     - [OpenVas Vulnerability Scanner]()
     - [Tcpdump and WireShark]()
   
-<h2>🔭 I’m currently working on:</h2>
-
-- [Active Directory Bulk User Creation]()
+ - <b>I’m currently working on:</b>
+  - [Active Directory Bulk User Creation]()
 
 <h2>🕗 Ansible Project</h2>
 
