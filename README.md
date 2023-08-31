@@ -8,6 +8,7 @@
   - [FIM (File Integrity Monitor)]()
 
 <h2>🐍 Python Projects</h2>
+
 - [Install Ansible (web servers and database servers), Nginx (web servers), and MariaDB]
 - [Python Password Validation Code]()
 - [Creating a new User on a Cisco Router]()
