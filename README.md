@@ -15,12 +15,12 @@
 
 <h2>🕗 Ansible Project</h2>
 
-- [Install Ansible, Nginx, and MariaDB](https://github.com/jlam744/Ansible_NGinx_MariaDB)
+  - [Install Ansible, Nginx, and MariaDB](https://github.com/jlam744/Ansible_NGinx_MariaDB)
 
 <h2>🐍 Python Projects</h2>
 
-- [Python Password Validation Code](https://github.com/jlam744/Password_Validation.py)
-- [Creating a new user on a Cisco Router](https://github.com/jlam744/UserCreation.py/tree/main)
+  - [Python Password Validation Code](https://github.com/jlam744/Password_Validation.py)
+  - [Creating a new user on a Cisco Router](https://github.com/jlam744/UserCreation.py/tree/main)
  
 <h2>📃 Certifications</h2>
 
