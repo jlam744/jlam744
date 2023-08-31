@@ -5,7 +5,9 @@
 - <b>PowerShell</b>
   - [Windows Event Log: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/jlam744/SentinelGeo_lab)
   - [Active Directory Bulk User Creation]()
-  - [FIM (File Integrity Monitor)]()
+  - [Reconnaissance with NMAP, Zenmap, Hping, and Masscan]()
+  - [OpenVas Vulnerability Scanner]()
+  - [Tcpdump and WireShark]()
 
 <h2>🕗 Ansible Project</h2>
 
