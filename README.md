@@ -10,8 +10,8 @@
 <h2>🐍 Python Projects</h2>
 
 - [Install Ansible, Nginx, and MariaDB]()
-- [Python Password Validation Code]()
-- [Creating a new user on a Cisco Router]()
+- [Python Password Validation Code](https://github.com/jlam744/Password_Validation.py)
+- [Creating a new user on a Cisco Router](https://github.com/jlam744/UserCreation.py/tree/main)
  
 <h2>📃 Certifications</h2>
 
