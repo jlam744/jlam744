@@ -18,9 +18,6 @@
 - <b>CompTIA Security+ SY0-601:
 [Jason's CompTIA Security+ ce certificate.pdf](https://github.com/jlam744/jlam744/files/12474731/Jason.s.CompTIA.Security%2B.ce.certificate.pdf)
 
-
-- [How to get into Cybersecurity Starting From Zero]
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
