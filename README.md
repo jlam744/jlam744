@@ -11,7 +11,7 @@
 
 - [Install Ansible, Nginx, and MariaDB]()
 - [Python Password Validation Code]()
-- [Creating a new User on a Cisco Router]()
+- [Creating a new user on a Cisco Router]()
  
 <h2>📃 Certifications</h2>
 
