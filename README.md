@@ -9,7 +9,7 @@
 
 <h2>🐍 Python Projects</h2>
 
-- [Install Ansible, Nginx, and MariaDB]()
+- [Install Ansible, Nginx, and MariaDB](https://github.com/jlam744/Ansible_NGinx_MariaDB)
 - [Python Password Validation Code](https://github.com/jlam744/Password_Validation.py)
 - [Creating a new user on a Cisco Router](https://github.com/jlam744/UserCreation.py/tree/main)
  
