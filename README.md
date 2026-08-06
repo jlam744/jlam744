@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jason! <br/><a href="https://www.linkedin.com/in/jason-lam-676976205/">Cybersecurity Analyst</a>
+<h1>Hi, I'm Jason! <br/><a href="https://www.linkedin.com/in/jason-lam-676976205/">Cloud Security Engineer</a>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
