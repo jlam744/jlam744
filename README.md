@@ -70,6 +70,7 @@ I started in a Tier 1 SOC and moved into security engineering, where I write KQL
 - <b>Compliance & Governance:</b> ISO 27001, HITRUST CSF, SOC 2 Type II, Audit Evidence Collection, Control Testing
 - <b>Frameworks & Standards:</b> MITRE ATT&CK, NIST Cybersecurity Framework, Cyber Kill Chain, CISA SCuBA Baselines
 - <b>Operating Systems:</b> Windows Server, Linux
+- <b>Data Governance & Documentation:</b> SOP Development & Maintenance, Data Classification & Handling Procedures, Password Management Standards, Incident Response Procedures, Policy-to-Procedure Translation, Audit-Ready Documentation
 
 <h2>📃 Certifications</h2>
 
