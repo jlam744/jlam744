@@ -3,7 +3,7 @@
 I started in a Tier 1 SOC and moved into security engineering, where I write KQL detections in Microsoft Sentinel, investigate data loss prevention (DLP) incidents in Microsoft Purview, and build automation that saves analysts time. I'm now bringing the same detect, investigate and automate approach to AWS incident response.
 
 <h2>🤖 AI Security</h2>
-- [Atrex AI Pentesting Project](https://github.com/jlam744/REPO-NAME)
+- [Atrex AI Pentesting Project: AI-Assisted Penetration Testing](https://github.com/jlam744/Atrex-AI-Pentesting)
 
 <h2>🛡️ Detection and Incident Response (Will be adding these soon!)</h2>
 
