@@ -20,9 +20,6 @@ I started in a Tier 1 SOC and moved into security engineering, where I write KQL
   - [OpenVAS Vulnerability Scanner](https://github.com/jlam744/OpenVas)
   - [Packet Analysis with tcpdump and Wireshark](https://github.com/jlam744/NetworkAnalysis)
 
-- <b>Active Directory</b>
-  - [Active Directory Bulk User Creation (PowerShell)](https://github.com/jlam744/BulkUsersAD_Powershell)
-
 <h2>🚧 Projects in Progress</h2>
 
 - <b>Detection Engineering</b>
