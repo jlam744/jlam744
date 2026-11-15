@@ -59,12 +59,17 @@ I started in a Tier 1 SOC and moved into security engineering, where I write KQL
 
 <h2>🧰 Skills</h2>
 
-- <b>SIEM and Detection:</b> Microsoft Sentinel, KQL, Log Analytics, MITRE ATT&CK
-- <b>Data Protection:</b> Microsoft Purview DLP
-- <b>Cloud:</b> Microsoft Azure, AWS (CloudTrail, GuardDuty, IAM)
-- <b>Scripting and Automation:</b> PowerShell, Python, Ansible
-- <b>Network and Vulnerability:</b> Nmap, Masscan, Wireshark, tcpdump, OpenVAS
-- <b>Infrastructure:</b> Active Directory, Windows Server, Linux
+- <b>Detection / SIEM:</b> Microsoft Sentinel, KQL, Sentinel Analytics Rules, Splunk, Threat Hunting, Alert Tuning, Root Cause Analysis, Log Analytics
+- <b>Incident Response and Threat Intelligence:</b> Microsoft Defender, Recorded Future, OSINT, Phishing Analysis, IR Tabletop Exercises, Postmortems
+- <b>Identity & Access Management:</b> Microsoft Entra ID, RBAC, MFA, Conditional Access, SSO/SCIM/OAuth App Onboarding, Access Reviews, Privileged Access Management (PAM), Active Directory
+- <b>Data Protection:</b> Microsoft Purview DLP, Insider Risk Management
+- <b>Cloud & Vulnerability Management:</b> Microsoft Azure, AWS, Wiz, Qualys, Microsoft Defender for Cloud (CSPM), Picus, OpenVAS, Misconfiguration Detection, Remediation Tracking
+- <b>AI Security:</b> Microsoft Security Copilot, MCP Security Assessment, AI-Driven Triage Automation
+- <b>Automation & Scripting:</b> PowerShell, Python, Bash, SQL, Terraform, Ansible, Logic Apps / SOAR
+- <b>Network Security:</b> Nmap, Masscan, Wireshark, tcpdump
+- <b>Compliance & Governance:</b> ISO 27001, HITRUST CSF, SOC 2 Type II, Audit Evidence Collection, Control Testing
+- <b>Frameworks & Standards:</b> MITRE ATT&CK, NIST Cybersecurity Framework, Cyber Kill Chain, CISA SCuBA Baselines
+- <b>Operating Systems:</b> Windows Server, Linux
 
 <h2>📃 Certifications</h2>
 
