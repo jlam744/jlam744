@@ -6,7 +6,7 @@ I started in a Tier 1 SOC and moved into security engineering, where I write KQL
 
 - [Atrex AI Pentesting Project: AI-Assisted Penetration Testing](https://github.com/jlam744/Atrex-AI-Pentesting)
 
-<h2>🛡️ Detection and Incident Response (Will be adding these soon!)</h2>
+<h2>🛡️ Detection and Incident Response</h2>
 
 - [Sentinel Detections: KQL Rules Mapped to MITRE ATT&CK](https://github.com/jlam744/sentinel-detections)
 - [Incident Casebook: Investigation Write-ups](https://github.com/jlam744/incident-casebook)
@@ -76,6 +76,8 @@ I started in a Tier 1 SOC and moved into security engineering, where I write KQL
 
 - <b>CompTIA Cybersecurity Analyst (CySA+)</b> [CompTIA CySA+ ce certificate.pdf](https://github.com/user-attachments/files/34866952/CompTIA.CySA%2B.ce.certificate.pdf)
 - <b>CompTIA Security+ SY0-601:</b> [Jason's CompTIA Security+ ce certificate.pdf](https://github.com/jlam744/jlam744/files/12474731/Jason.s.CompTIA.Security%2B.ce.certificate.pdf)
+- <b>Cisco CyberOps Associate</b>
+- <b>AWS Academy Cloud Operations Graduate</b>
 
 <h2>🤳 Connect with me</h2>
 
