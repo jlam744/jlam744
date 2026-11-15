@@ -64,7 +64,7 @@ I started in a Tier 1 SOC and moved into security engineering, where I write KQL
 
 <h2>📃 Certifications</h2>
 
-- <b>CompTIA Cybersecurity Analyst (CySA+)</b>
+- <b>CompTIA Cybersecurity Analyst (CySA+)</b> [CompTIA CySA+ ce certificate.pdf](https://github.com/user-attachments/files/34866908/CompTIA.CySA%2B.ce.certificate.pdf)
 - <b>CompTIA Security+ SY0-601:</b> [Jason's CompTIA Security+ ce certificate.pdf](https://github.com/jlam744/jlam744/files/12474731/Jason.s.CompTIA.Security%2B.ce.certificate.pdf)
 
 <h2>🤳 Connect with me</h2>
