@@ -24,6 +24,10 @@ I started in a Tier 1 SOC and moved into security engineering, where I write KQL
   - [OpenVAS Vulnerability Scanner](https://github.com/jlam744/OpenVas)
   - [Packet Analysis with tcpdump and Wireshark](https://github.com/jlam744/NetworkAnalysis)
 
+<h2>📋 Security and Data Governance SOPs</h2>
+
+- [Security SOPs: Data Classification, Password Management, Incident Response and Vulnerability Management](https://github.com/jlam744/security-sops)
+
 <h2>🚧 Projects in Progress</h2>
 
 - <b>Detection Engineering</b>
